@@ -106,11 +106,7 @@ See `app.py` for full parameter/response details and examples.
   `Uncategorized` (the API remains usable for recording expenses and budgets).
 - CORS is enabled in `app.py` so the static frontend can call the API.
 
----
 
-## Images / Screenshots
-
-Place screenshots in the `images/` folder. Current filenames are:
 
 - `image.png`
 - `image_1.png`
@@ -124,12 +120,3 @@ Embedding examples for this README:
 
 If you add or replace screenshots using these filenames, they will render automatically.
 
----
-
-## Next steps I can help with
-
-- Add example API requests/responses and curl snippets.
-- Create a small `setup.ps1` script to automate environment creation and launching.
-- Add a CONTRIBUTING or CHANGELOG section.
-
-Tell me which you'd like and I'll implement it.
